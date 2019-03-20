@@ -27,6 +27,10 @@ npm run test
 ```
 npm run lint
 ```
+### 需要跑一个server
+```
+node serve.js
+```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
